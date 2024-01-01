@@ -5,3 +5,4 @@
 3. [combination sum iii](https://leetcode.com/problems/combination-sum-iii/)
 4. [find missing and repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)
 5. [combination in phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+6. [find consecutive integers from data stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/description/)
